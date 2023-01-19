@@ -1,0 +1,16 @@
+
+.hugo_build.lock
+_site/
+.sass-cache/
+.jekyll-metadata
+
+public/*
+
+.DS_Store
+
+w/*
+000_notes.md
+
+resources/_gen/
+
+issues/
