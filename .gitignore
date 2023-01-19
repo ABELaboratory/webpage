@@ -4,13 +4,14 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
-public/*
+public/
 
 .DS_Store
 
-w/*
+w/
 000_notes.md
 
 resources/_gen/
 
 issues/
+themes/gruvhugo/exampleSite/
