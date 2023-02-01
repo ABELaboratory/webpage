@@ -1,9 +1,8 @@
 ---
-author: "ABELab team"
 title: "Home page"
 ---
 
-<img src="images/logo.png" title="" alt="" />
+<img src="images/logoABEblue.png" alt="" />
 
 <hr/>
 

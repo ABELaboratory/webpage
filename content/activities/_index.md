@@ -1,5 +1,4 @@
 ---
-author: "ABELab team"
 title: "Activities"
 date: 2023-01-01
 descripyion: This is the place to know how is going ABE Lab project

@@ -2,7 +2,6 @@
 title: "Context"
 description: "Accessible Backlist Ebooks Laboratory (ABE Lab) is a collaborative project funded by Creative Europe. It aims to provide publisher's with correct information about options and costs for remediation to make ebooks accessible."
 date: "2023-01-01"
-author: "ABE Lab"
 ---
 
 To date, persons with reading disabilities - for instance blind, visually impaired or dyslexic people - only have access to 5 to 10% of the yearly book production, depending on the country they live in: the term “book famine” has been coined some years ago to describe this fact. The books they have access to are specific adaptations of print or digital books, created in small quantities by associations for the blinds or similar organizations.

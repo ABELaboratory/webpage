@@ -1,5 +1,4 @@
 ---
-author: The ABELab team
 title: Outcomes
 date: 2023-01-01
 description: This is the place to find usable resources produced by ABE Lab project
