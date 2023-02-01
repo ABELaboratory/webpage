@@ -1,5 +1,5 @@
 ---
-title: Accessible Backlist Europe Laboratory webpage
+title: Accessible Backlist Ebooks Laboratory webpage
 ---
 
 This is the place for the ABELab information webpage located at [www.abelab.eu](www.abelab.eu)
