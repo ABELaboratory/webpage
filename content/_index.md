@@ -13,7 +13,7 @@ title: "Home page"
 <hr/>
 
 The **European Accessibility Act (<abbr title="European Accessibility Act">EAA</abbr>)** is a directive that aims to improve the functioning of the internal market for accessible products and services, by removing barriers created by divergent rules in Member States. 
-The <abbr title="">European Accessibility Act</abbr> will take effect per June 2025, affecting many products and services, including **e-books** categorized as services.
+The <abbr title="European Accessibility Act">EAA</abbr> will take effect per June 2025, affecting many products and services, including **e-books** categorized as services.
  
 In many conversations with publishers and publishers association we encountered a lot of practical questions, many still not answered. Given the limited timeframe, and the fact that many parties have limited resources to look into this, we have set up Accessible Backlist Ebooks Laboratory (ABELab), a project funded by the EU Creative Europe program, that has the goal of centralizing some of the necessary research and sharing the results with anyone interested.
  
