@@ -124,7 +124,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["logoABEblue.png"]
+    images: ["logoABEblue1.png"]
 
     # profileMode:
     #     enabled: false
@@ -165,7 +165,7 @@ params:
 
     label:
          text: "Accessible Backlist Ebooks Laboratory"
-         icon: images/logoABEblue.png
+         icon: images/logoABEblue1.png
          iconHeight: 35
 
     # analytics:

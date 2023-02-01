@@ -2,7 +2,7 @@
 title: "Home page"
 ---
 
-<img src="images/logoABEblue.png" alt="" />
+<img src="images/logoABEblue1.png" alt="" />
 
 <hr/>
 
