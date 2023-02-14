@@ -21,8 +21,8 @@ One topic is particularly important: how can a publisher evaluate the impact of 
 Earlier studies have shown very different results. In particular, the issues related with different categories of ebooks, especially the more complex ones, have not been addressed yet.
 
 At the same time, there are some remediation tools for converting existing EPUB2 and PDF files into accessible EPUB3 versions, but…:
-* which issues do these tools actually really solve and which not? 
-* Is really possible to automate the process, to which level? 
+* Which issues do these tools actually really solve and which not? 
+* Is it really possible to automate the process, to which level? 
 * Which are the related costs? 
 * How much time does this process require?
 * How the production processes need to be changed to achieve the goal?
