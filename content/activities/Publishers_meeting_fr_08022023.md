@@ -109,7 +109,7 @@ Tout en prenant en compte les différences de situations d'un éditeur à l'autr
 
 ### Communications et diffusion (panneau 12)
 
-Tous les livrables sront publiés en anglais aux formats EPUB et PDF.
+Tous les livrables seront publiés en anglais aux formats EPUB et PDF.
 
 * Automne 2023 Rapport sur le classement des outils testés pour différentes catégories de livres.
 * printemps 2024 Livre blanc qui s'adresse aux développeurs d'outils de remédiation des problèmes d'accessibilité dans les publications numériques, en soulignant les exigences que les outils de remédiation des livres électroniques doivent inclure pour être efficaces.
@@ -130,10 +130,10 @@ En plus des livrables publics Vous aurez un accès au détail des tests effectu�
 
 Côté outils de remédiation nous avons besoin d’avoir accès à vos outils ainsi qu’à la documentation et formation nécessaire pour évaluer l’utilité dans les meilleures conditions. 
 
-Nous aurons des échanges réguliers avec vous, et vous aurez accès aux détail des tests effectués ainsi qu’à une évaluation détaillée de votre outil.
+Nous aurons des échanges réguliers avec vous, et vous aurez accès aux détails des tests effectués ainsi qu’à une évaluation détaillée de votre outil.
 
-## (panneau 14)
-Fin de la présentation. Merci pour votre attention.
+## Fin de la présentation (panneau 14)
+Merci pour votre attention.
 
 </div>
 <hr/>

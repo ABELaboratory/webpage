@@ -7,11 +7,11 @@ draft: false
 
 ## How to cope with backlist titles?  (slide 1)
 
-Presentation to Federation of European Publisher's (FEP) – Accessibility working group meeting on 2023 february 3rd.
+Presentation to Federation of European Publishers (FEP) – Accessibility working group meeting on 2023 february 3rd.
 
 ## Partenaires (slide 2)
 
-ABE Lab is a project coordonated by EDRLa, partners are Foudazione LIA and KB national library of the Netherlands. It is funded by Creative Europe.
+ABE Lab is a project coordinated by EDRLa, partners are Foudazione LIA and KB national library of the Netherlands. It is funded by Creative Europe.
 
 ## Context (slide 3)
 
@@ -43,7 +43,7 @@ If you want to contact the team, please drop an email to contact@abelab.eu.
 
 Analyzing and testing the processes and workflows 
 ebooks of different categories and formats 
-transformed into accessible EPUB in the easiest and less expensive way.  
+transformed into an accessible EPUB in the easiest and less expensive way.  
 
 * Collection of data on ebooks backlists at a European level 
 * Identification of recurrent accessibility issues 
@@ -111,3 +111,4 @@ Any publication will be available at abelab.eu
 If you want to contact the team, please drop an email to contact@abelab.eu.
 
 <hr/>
+
