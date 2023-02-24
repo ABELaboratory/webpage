@@ -10,6 +10,7 @@ title: "Home page"
 > 
 > European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> (the National Library of the Netherlands) are partners of this Creative Europe funded project.
 
+<img src="images/800px-Creative_Europe_logo.png" alt="" width="200px"/>
 <hr/>
 
 The **European Accessibility Act (<abbr title="European Accessibility Act">EAA</abbr>)** is a directive that aims to improve the functioning of the internal market for accessible products and services, by removing barriers created by divergent rules in Member States. 
