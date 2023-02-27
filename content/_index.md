@@ -1,5 +1,6 @@
 ---
 title: "Home page"
+layout: home
 ---
 
 <img src="images/logoABEblue1.png" alt="" />
