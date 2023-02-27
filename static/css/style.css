@@ -3,3 +3,8 @@
 * {
     font-family: 'Quicksand', sans-serif;
 }
+
+.footer-img {
+    text-align: center;
+    display: inline;
+}
