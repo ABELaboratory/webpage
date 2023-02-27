@@ -9,9 +9,10 @@ layout: home
 
 > A **collaborative project** aiming to **provide publisher with correct information about options and costs for remediation to make backlist ebooks accessible**. 
 > 
-> European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> (the National Library of the Netherlands) are partners of this Creative Europe funded project.
-
-<img src="images/800px-Creative_Europe_logo.png" alt="" width="200px"/>
+> European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> the National Library of the Netherlands are partners of this Creative Europe funded project.
+<div class="center">
+<img class="footer-img" src="images/800px-Creative_Europe_logo.png" alt="" width="200px"/>
+</div>
 <hr/>
 
 The **European Accessibility Act (<abbr title="European Accessibility Act">EAA</abbr>)** is a directive that aims to improve the functioning of the internal market for accessible products and services, by removing barriers created by divergent rules in Member States. 
