@@ -1,5 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
-* {
+ * {
     font-family: 'Quicksand', sans-serif;
+} */
+
+.footer-img {
+    text-align: center;
+    display: inline;
+    margin-left: 1em;
+}
+
+.logopartners {
+    text-align: center;
+    display: inline;
+    padding: 1em;
+}
+
+.center {
+    text-align: center;
 }

@@ -7,14 +7,16 @@ description: "ABE Lab – Accessible Backlist Ebooks Laboratory is a small-scale
 The project ABE Lab – Accessible Backlist Ebooks Laboratory is a small-scale European Cooperation project. Coordinator of the project is European Digital Reading Lab (EDRLab), partners are Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> (the National Library of the Netherlands). 
 If you want to contact the team, please drop an email to contact@abelab.eu. 
 
-<img class="logopartners" src="/images/logospartners.png" alt=""/>
-<!-- <div class="bloc">
-<img class="logopartners" src="/images/logoKB.png" alt=""/>
-<img class="logopartners" src="/images/logolia.svg" alt=""/>
-<img class="logopartners" src="/images/logoEDRLab.png" alt=""/>
-</div> -->
+<!-- <img class="logopartners" src="/images/logospartners.png" alt=""/> -->
+<div class="center">
+<img class="logopartners" src="/images/logoEDRLab.png" alt="" height="100px"/>
+<img class="logopartners" src="/images/logolia.svg" alt="" height="100px"/>
+<img class="logopartners" src="/images/logoKB.png" alt="" height="100px"/>
+</div>
 
 ## EDRLab
+
+
 
 The European Digital Reading Lab ([edrlab.org](https://edrlab.org)) is both a development laboratory and an association of 65 members from the publishing industry, with lots of publishers or providers of publishing services, some huge, some small.
 
@@ -34,16 +36,16 @@ them finding the best solutions for remediating a huge volume of ebooks before 2
 
 ## Fondazione LIA
 
-[Fondazione LIA](https://www.fondazionelia.org/) is an internationally recognized expert in the certification of accessibility of EPUB 3 ebooks, having already certified more than 29.000 ebooks available in the [libriitalianiaccessibili](www.libriitalianiaccessibili.it) catalogue.
+[Fondazione LIA](https://www.fondazionelia.org/) is an internationally recognized expert in the certification of accessibility of EPUB 3 ebooks, having already certified more than 29.000 ebooks available in the <span lang="it">[libri italiani accessibili](http://www.libriitalianiaccessibili.it)</span> catalogue.
 Fondazione LIA has been working in the field of accessibility for digital publications since 2014. In these years Fondazione LIA has worked with all the major Italian publishing groups and several European and international organizations to help them make their publications natively accessible and to distribute them in mainstream online channels. To do this it works on the definition of production workflows, quality control checklists, procedures and technological tools. This have been possible thanks to the fact that since the beginning of its activities, LIA has actively worked in the key international organizations that define the standard for accessible digital publications, such as W3C, EDRLab, the DAISY Consortium and ISO. As for the R&D, LIA collaborates with the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR), the Keio Research Institute at the Keio University, the Japanese Advanced publishing laboratory (APL) and with many technological companies and
 experts active in the digital accessibility field. In recent years has been working alongside educational and scholastic publishers, such as Zanichelli, DeAgostini Scuola and Il Mulino, in projects aimed at making accessible their most complex publications.
 
 
 <!-- <img class="logopartners" src="/images/logoKB.png" alt=""/> -->
 
-## KB
+## KB national library of the netherlands
 
-KB has a long history in library research. For instance, in 2008-2012 KB led the Impact project on the
+[KB](https://www.kb.nl/) has a long history in library research. For instance, in 2008-2012 KB led the Impact project on the
 [digitization of cultural heritage](https://www.digitisation.eu/). In this EU funded project 26 partners
 worked together to make OCR for historical text better, faster and cheaper. The KB is also home to the
 Europeana Foundation which empowers the cultural heritage sector in its digital transformation.
