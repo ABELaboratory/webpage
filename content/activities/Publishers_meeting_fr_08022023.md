@@ -135,5 +135,6 @@ Nous aurons des échanges réguliers avec vous, et vous aurez accès aux détail
 ## Fin de la présentation (panneau 14)
 Merci pour votre attention.
 
+Vous pouvez télécharger la version graphique [Présentation de projet (PDF non accessible)](/documents/2023_02_08_ABELab_FR_publishers.pptx.pdf) de ce document.
 </div>
 <hr/>
