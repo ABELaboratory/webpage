@@ -214,9 +214,7 @@ aria-label="Page 27"></span></p>
 <figcaption>Figure 6: Radar chart showing three curves for PDF (blue continuous line), EPUB Fixed-Layout (orange dashed line) and EPUB reflowable (violet dotted line)</figcaption>
 <p>
 <img
-src="/images/media24/file9.jpg"
-
-alt=" Radar chart"/>
+src="/images/media24/file9.jpg" alt=" Radar chart"/>
 </p>
 </figure>
 
@@ -825,9 +823,7 @@ aria-label="Page 30"></span></p>
 <figcaption>Figure 8: Bar chart showing level and repartition of errors per Thema code categories</figcaption>
 <p>
 <img
-src="/images/media24/file11.jpg"
-
-alt="Bar chart"/>
+src="/images/media24/file11.jpg" alt="Bar chart"/>
 </p>
 </figure>
 
@@ -1053,9 +1049,7 @@ aria-label="Page 31"></span></p>
 <figcaption>Figure 9: Candlestick chart showing number of publications, minimum, average and maximum scores per Thema codes</figcaption>
 <p>
 <img
-src="/images/media24/file12.jpg"
-
-alt="Candlestick chart, see data below."/>
+src="/images/media24/file12.jpg" alt="Candlestick chart, see data below."/>
 </p>
 </figure>
 
@@ -1284,9 +1278,7 @@ aria-label="Page 32"></span></p>
 <figcaption>Figure 10: Bubble chart showing average score (X axis) per standard variation (Y axis), one bubble per Thema code, bubble size represents the number of publications in the sample.</figcaption>
 <p>
 <img
-src="/images/media24/file13.jpg"
-
-alt="Bubble Chart, see data below."/>
+src="/images/media24/file13.jpg" alt="Bubble Chart, see data below."/>
 </p>
 </figure>
 
