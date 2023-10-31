@@ -735,9 +735,7 @@ aria-label="Page 16"></span></p>
 <figcaption>Figure 1: ebooks per Thema codes, France.</figcaption>
 <p>
 <img
-src="/images/media24/file4.jpg"
-
-alt="Pie Chart (data available in table 1)."/>
+src="/images/media24/file4.jpg" alt="Pie Chart (data available in table 1)."/>
 </p>
 </figure>
 
@@ -749,9 +747,7 @@ class="anchor"></span></p>
 <figcaption>Figure 2: ebooks per Thema codes, Germany.</figcaption>
 <p>
 <img
-src="/images/media24/file5.jpg"
-
-alt="Pie Chart (data available in table 1)."/>
+src="/images/media24/file5.jpg" alt="Pie Chart (data available in table 1)."/>
 </p>
 </figure>
 
@@ -771,9 +767,7 @@ aria-label="Page 17"></span></p>
 id="id__Toc149567647"
 class="anchor"></span>
 <img
-src="/images/media24/file6.jpg"
-
-alt="Pie Chart (data available in table 1)."/>
+src="/images/media24/file6.jpg" alt="Pie Chart (data available in table 1)."/>
 </p>
 </figure>
 
@@ -782,9 +776,7 @@ alt="Pie Chart (data available in table 1)."/>
 <figcaption>Figure 4: ebooks per Thema codes, Spain.</figcaption>
 <p>
 <img
-src="/images/media24/file7.jpg"
-
-alt="Pie Chart (data available in table 1)."/>
+src="/images/media24/file7.jpg" alt="Pie Chart (data available in table 1)."/>
 </p>
 </figure>
 
@@ -801,9 +793,7 @@ aria-label="Page 18"></span></p>
 <figcaption>Figure 5: ebooks per Thema codes, the Netherlands.</figcaption>
 <p>
 <img
-src="/images/media24/file8.jpg"
-
-alt="Pie Chart (data available in table 1)."/>
+src="/images/media24/file8.jpg" alt="Pie Chart (data available in table 1)."/>
 </p>
 </figure>
 
