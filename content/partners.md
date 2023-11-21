@@ -5,7 +5,7 @@ description: "ABE Lab – Accessible Backlist Ebooks Laboratory is a small-scale
 ---
 
 The project ABE Lab – Accessible Backlist Ebooks Laboratory is a small-scale European Cooperation project. Coordinator of the project is European Digital Reading Lab (EDRLab), partners are Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> (the National Library of the Netherlands). 
-If you want to contact the team, please drop an email to contact@abelab.eu. 
+If you want to contact the team, please drop an email to contact @ abelab.eu. 
 
 <!-- <img class="logopartners" src="/images/logospartners.png" alt=""/> -->
 <div class="center">
