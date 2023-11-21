@@ -49,7 +49,7 @@ C'est un projet de recherche et développement de 18 mois,
 débutant en janvier 2023 et se terminant en juin 2024.
 
 abelab.eu
-contact@abelab.eu
+contact @ abelab.eu
 
 
 ## Activités (panneau 7)

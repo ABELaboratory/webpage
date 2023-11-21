@@ -108,7 +108,7 @@ Three questions:
 End of the presentation. Thank you for your attention.
 
 Any publication will be available at abelab.eu 
-If you want to contact the team, please drop an email to contact@abelab.eu.
+If you want to contact the team, please drop an email to contact @ abelab.eu.
 
 <hr/>
 
