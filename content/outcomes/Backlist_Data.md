@@ -15,10 +15,10 @@ aria-label="Page 7"></span>Without precise data about the composition of ebook b
 <p>The data presented here were necessary to effectively set up the next steps of the project and to define new research possibilities on the topic; they also provided a basis for future documents and reports that will be published in the context of the ABE Lab project.</p>
 <p>This report presents the results of the analysis of the size and the composition of the ebooks backlists and their segmentation and provides trends and insights of use for the scope of our research. It first present our approach including the difficulties we faced and then provides overview and segmentation we achieved. The <i>Insights</i> section recapitulates the main findings and the <i>Outcomes</i> section details the use of this work for our project.</p>
 <section
-id="approach"
-data-number="2.1">
-<h2
-data-number="2.1">Approach</h2>
+id="approach">
+
+
+## Approach
 <p>For this study we define ebook backlists in Europe as the collection of all ebooks available on the EU Market. Since there is no central source at the European level that provides this information, many publication registration offices, distributors, aggregators, resellers and national libraries were contacted. Given that all these organisations handle only a set of partial data and that these data sets have overlaps between them, we need to be careful to make conclusions. Ebooks made available on the EU market via e-commerce platforms, distributors and retailers operating on the international market also make up a large proportion of the backlist, especially considering ebooks from the UK, the USA and Canada.</p>
 <p>We faced two main difficulties in the data collection and analysis activities:</p>
 <ul>
@@ -37,10 +37,10 @@ role="doc-noteref"><sup>1</sup></a> not harmonised across EU countries. We based
 <p>More details about these difficulties and how we managed them are given in the following subsections.</p>
 <section
 id="counting-titles"
-class="level3"
-data-number="2.1.1">
-<h3
-data-number="2.1.1">Counting titles</h3>
+class="level3">
+
+
+### Counting titles
 <p>To get information about the number of ebooks that have been published in EU member states, we started by contacting all EU ISBN agencies. Summing together the numbers of national productions should give a good first estimate for the total. However there are some caveats:</p>
 <ul>
 <li>
@@ -109,16 +109,16 @@ aria-label="Page 9"></span>National libraries are another possible source of inf
 </section>
 <section
 id="classifying-titles"
-class="level3"
-data-number="2.1.2">
-<h3
-data-number="2.1.2">Classifying titles</h3>
+class="level3">
+
+
+### Classifying titles
 <section
 id="categories"
-class="level4"
-data-number="2.1.2.1">
-<h4
-data-number="2.1.2.1">Categories</h4>
+class="level4">
+
+
+#### Categories
 <p>Book categories are a way to isolate and regroup books with common characteristics. Those characteristics may explain production choices and the technologies used.</p>
 <p>To group titles for the purposes of our project, we chose to refer to the Thema subject category scheme<a
 href="#fn6"
@@ -141,10 +141,10 @@ role="doc-noteref"><sup>8</sup></a> to Thema mapping, where the Young Adults cat
 </section>
 <section
 id="formats"
-class="level4"
-data-number="2.1.2.2">
-<h4
-data-number="2.1.2.2">Formats</h4>
+class="level4">
+
+
+#### Formats
 <p>Ebooks can come in different formats. For the purposes of our project, we focus on the two mainstream formats widely adopted worldwide: PDF and EPUB.</p>
 <p>PDF (Portable Document Format) is a document format developed by Adobe for document interchange, and often used for digital documents with a complex layout or when it is necessary to reproduce the structure and graphics of a paper document or book. Initially developed for print reliability and digital conservation, the format is based on PostScript, a computer language for describing the positioning of characters and graphic elements absolutely on the page (similar to having x and y coordinates to position each element on the page). As it went to be used for digital consultation, the format evolved to respond as best as possible to this use principally with the <span
 epub:type="pagebreak"
@@ -185,10 +185,10 @@ role="doc-noteref"><sup>14</sup></a>. EPUB is a native semantic format allowing 
 </section>
 <section
 id="years"
-class="level4"
-data-number="2.1.2.3">
-<h4
-data-number="2.1.2.3">Years</h4>
+class="level4">
+
+
+#### Years
 <p>Another way to classify titles is by year of production. We realised that book categories and formats are not enough and that we also had to make a per-year segmentation. As already mentioned, over the years formats have also evolved in terms of the accessibility features supported. The level of accessibility also depends on the accessibility guidelines available at the time the ebook was produced. The first version of EPUB Accessibility 1.0, the guidelines for creating accessible EPUBs, for example, was published in 2017. We can therefore assume that EPUBs created before this date will have a very low or zero level of accessibility, as publishers lacked clear reference specifications at the time of their production.</p>
 <p>The increasing focus on the accessibility of digital content, including ebooks, has also led to improvements in ebook production tools, which in the last years have progressively introduced support for accessibility features, to allow publishers to produce ebooks that are more and more accessible and compliant with international guidelines. In parallel, production workflows have also evolved to take accessibility into account.</p>
 <p>All these aspects - the format and its version, the availability of accessibility guidelines, the support of accessibility by production tools and the adaptation of workflows - are reflected in the way ebook files have been created over the years. For building a representative sample set for our research, we have to take this development into account.</p>
@@ -196,8 +196,7 @@ data-number="2.1.2.3">Years</h4>
 </section>
 </section>
 <section
-id="overview-of-the-eu-ebook-backlist"
-data-number="2.2">
+id="overview-of-the-eu-ebook-backlist">
 <p>
 <span
 epub:type="pagebreak"
@@ -205,17 +204,18 @@ role="doc-pagebreak"
 id="page11"
 aria-label="Page 11"></span>
 </p>
-<h2
-data-number="2.2">Overview of the EU ebook backlist</h2>
+
+
+## Overview of the EU ebook backlist
 <p>We have collected direct basic data from 18 countries and detailed data from 5 countries. The collected data provide precise information about the number of titles and the detailed ones contain repartition by categories and formats. We’ve integrated those collections with the annual data published by the Federation of European Publishers (FEP) to get an idea of markets.</p>
 <p>A considerable amount of ebooks currently on the EU market are provided by e-commerce platforms and resellers operating on the international market. Many of these titles are from countries like the USA, UK and Canada. Since these operators are very unlikely to make their data available, ebooks on the EU market from countries outside the EU are not investigable. However, given the market knowledge we already have, we can assume that the trends identified for the data we have available are also applicable to the data of titles from outside the EU.</p>
 <p>Since important differences exist between EU countries when it comes to their ebook backlist and this could appeal to different conclusions, we first present a general overview of the data collected and of the growth in ebook production at the European level, then we present more detailed views per catalogue.</p>
 <section
 id="total"
-class="level3"
-data-number="2.2.1">
-<h3
-data-number="2.2.1">Total</h3>
+class="level3">
+
+
+### Total
 <p>The last available <a
 href="https://fep-fee.eu/European-Book-Publishing-1467"><u><u>FEP annual statistic report</u></u></a><a
 href="#fn15"
@@ -229,10 +229,10 @@ href="#id__heading=h.eyvc6j916jl9"><u><u>Titles from outside EU</u></u></a>).</p
 </section>
 <section
 id="catalogue-growth"
-class="level3"
-data-number="2.2.2">
-<h3
-data-number="2.2.2">Catalogue growth</h3>
+class="level3">
+
+
+### Catalogue growth
 <p>The evolution of the book market as reported by the Federation of European Publishers<a
 href="#fn16"
 class="footnote-ref"
@@ -254,8 +254,7 @@ role="doc-noteref"><sup>16</sup></a> is very important to the topic we are discu
 </section>
 <section
 id="number-of-titles-in-the-backlist-per-countries"
-class="level3"
-data-number="2.2.3">
+class="level3">
 <p>
 <span
 epub:type="pagebreak"
@@ -263,8 +262,9 @@ role="doc-pagebreak"
 id="page12"
 aria-label="Page 12"></span>
 </p>
-<h3
-data-number="2.2.3">Number of titles in the backlist per countries</h3>
+
+
+### Number of titles in the backlist per countries
 <p>The following list presents the data we’ve collected and consolidated. It is organised per descendent number of ebooks made available per country. We observed that the detailed data obtained came from 5 of the 6 countries with the biggest backlists.</p>
 <ul>
 <li>
@@ -365,10 +365,10 @@ style="text-align:left;">
 </ul>
 <section
 id="missing-data"
-class="level4"
-data-number="2.2.3.1">
-<h4
-data-number="2.2.3.1">Missing data</h4>
+class="level4">
+
+
+#### Missing data
 <ul>
 <li>
 <p>Austria</p>
@@ -399,8 +399,7 @@ data-number="2.2.3.1">Missing data</h4>
 </section>
 <section
 id="titles-from-outside-eu"
-class="level3"
-data-number="2.2.4">
+class="level3">
 <p>
 <span
 epub:type="pagebreak"
@@ -408,8 +407,9 @@ role="doc-pagebreak"
 id="page13"
 aria-label="Page 13"></span>
 </p>
-<h3
-data-number="2.2.4">Titles from outside EU</h3>
+
+
+### Titles from outside EU
 <p>Buying ebooks from non-European retailers is easy since the deliverable is a file that does not pass through border controls. It is especially the case for ebooks in the English language, which are very popular for certain categories (like computer books or scientific publications) and often outnumber local productions in these categories.</p>
 <p>Since the EAA targets ebooks on the European market, we focused on data on ebook sales by European retailers. It is important to notice that international e-book e-commerce platforms operate on the European market too, but getting accurate data from them is not simple as they operate out of traditional distribution channels.</p>
 <p>We provide here a quick overview of the collections available through those platforms:</p>
@@ -454,8 +454,7 @@ role="doc-noteref"><sup>20</sup></a>. In some countries, they work together with
 </section>
 </section>
 <section
-id="segmentation"
-data-number="2.3">
+id="segmentation">
 <p>
 <span
 epub:type="pagebreak"
@@ -463,14 +462,15 @@ role="doc-pagebreak"
 id="page14"
 aria-label="Page 14"></span>
 </p>
-<h2
-data-number="2.3">Segmentation</h2>
+
+
+## Segmentation
 <section
 id="by-category"
-class="level3"
-data-number="2.3.1">
-<h3
-data-number="2.3.1">By category</h3>
+class="level3">
+
+
+### By category
 <p
 style="text-align:left;">To compare the different EU member state backlists, we needed to split the complete offer of ebooks into several categories, like fiction books, biographies, children's books, books on art, etc. Since we expect that different categories of publications may have different complexity and often specific accessibility issues, we wanted to make sure we have a good representation of ebook categories and genres in this study.</p>
 <p
@@ -800,8 +800,7 @@ src="/images/media24/file8.jpg" alt="Pie Chart (data available in table 1)."/>
 </section>
 <section
 id="by-format"
-class="level3"
-data-number="2.3.2">
+class="level3">
 <p>
 <span
 epub:type="pagebreak"
@@ -809,8 +808,9 @@ role="doc-pagebreak"
 id="page19"
 aria-label="Page 19"></span>
 </p>
-<h3
-data-number="2.3.2">By format</h3>
+
+
+### By format
 <p>We managed to obtain detailed data on digital formats of ebooks on the market only for 5 key markets: France, Germany, Italy, the Netherlands and Spain. We retained only mainstream formats<a
 href="#fn21"
 class="footnote-ref"
@@ -909,8 +909,7 @@ class="odd">
 </section>
 <section
 id="by-year"
-class="level3"
-data-number="2.3.3">
+class="level3">
 <p>
 <span
 epub:type="pagebreak"
@@ -918,8 +917,9 @@ role="doc-pagebreak"
 id="page20"
 aria-label="Page 20"></span>
 </p>
-<h3
-data-number="2.3.3">By year</h3>
+
+
+### By year
 <p>We captured the evolution of distributed files formats by year since 2012 for the 5 key markets. The disparity observed can be compared to that already described in relation to the percentage of titles per distribution formats in 2022. Some countries present a linear evolution reflecting the evolution of formats, while others seem to produce the same ebook formats in 2012 and 2022. This difference will affect remediation activities since countries in which the latest version of the EPUB format, EPUB3, which in recent years has become not only the format of choice for ebook production, but also and especially for the production of accessible ebooks, has not been adopted yet, will face a technological debt in addition to the necessary remediation efforts to make ebooks from the backlist properly accessible and therefore keep them on the market.</p>
 <p>
 <span
@@ -995,8 +995,7 @@ class="odd">
 </section>
 </section>
 <section
-id="insights"
-data-number="2.4">
+id="insights">
 <p>
 <span
 epub:type="pagebreak"
@@ -1004,17 +1003,18 @@ role="doc-pagebreak"
 id="page21"
 aria-label="Page 21"></span>
 </p>
-<h2
-data-number="2.4">Insights</h2>
+
+
+## Insights
 <p>From the data collected we learn that the European backlist is not homogeneous between countries and therefore cannot be averaged and addressed in a similar way. Even a repartition by size of the national backlist is not sufficient to separate different needs.</p>
 <p>We also learn that developments in digital publishing go slow. Newer formats (like EPUB3) are not adopted quickly, and newer possibilities (like fixed layout for EPUB) do not cause formats like PDF to be replaced quickly.</p>
 <p>A blind spot is caused by the fact that large international platforms offer a lot of content to the European market. We do not know how much those contents are exclusives (like self published titles) and therefore the needs of remediation for those titles cannot be studied.</p>
 </section>
 <section
-id="outcomes"
-data-number="2.5">
-<h2
-data-number="2.5">Outcomes</h2>
+id="outcomes">
+
+
+## Outcomes
 <p>Based on the backlist overview we decided what type of titles we needed to collect. As previously mentioned, different categories do often need different types of remediation and generalising between these would give an incorrect view. As a result we decided that it was important to get titles of the following types:</p>
 <ul>
 <li>
