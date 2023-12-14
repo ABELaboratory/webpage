@@ -24,7 +24,11 @@ id="page23"
 aria-label="Page 23"></span>The objective of this section of the report is to share results on the identification of recurrent accessibility issues per categories of ebooks that will need remediation to fit EAA requirements. We’ll first define the target, our methodology and the scoring threshold established for this analysis, as well as the identified biases and limits. Then we’ll present the results we deemed useful for the next steps of the ABE Lab project, with a list of recurrent accessibility issues detected. Lastly, we’ll define the outcomes of this work and the ebook classification we developed which will be used to test remediation tools and workflows.</p>
 <section
 id="target">
-<h2>Target</h2>
+
+
+
+## Target
+
 <p>
 The 
 <a
@@ -125,7 +129,9 @@ role="doc-noteref">
 </section>
 <section
 id="methodology">
-<h2>Methodology</h2>
+
+
+## Methodology
 <p>The backlist data analysis allowed us to define a wish list of categories of files to collect in order to represent the backlist composition in a small but consistent sample. We had a target objective of 200 files from 5 countries. This objective was exceeded, with 351 files collected from 7 EU countries (Denmark, Finland, France, Germany, Italy, the Netherlands, Spain), additionally including some samples also from the United Kingdom. We used the Thema codes as our reference for classification. Some provided samples were classified to different Thema categories by the publisher. As it was not possible to separate the Thema categories, we chose to multiplicate these samples (one per Thema code, i.e. a book with Thema codes D, F was analysed two times, one as D and one as F), resulting in a total of 376 units to analyse.</p>
 <p>We added to this sample one accessible EPUB3 target file<a
 href="#fn6"
@@ -149,7 +155,9 @@ role="doc-noteref"><sup>7</sup></a>. Iterations were needed for this step as wel
 </section>
 <section
 id="scoring">
-<h2>Scoring</h2>
+
+
+## Scoring
 <p>Usually, providers of remediation services classify the ebooks per complexity: a book with more images, tables or pages will get a higher score. This method is relevant if the whole set of ebooks to classify is produced from a known production workflow. Looking at the European level, we know that publishers’ workflows differ in the quality of files they produce, which consequently may be totally different in terms of accessibility features, accessibility information and, therefore, remediation needs.</p>
 <p>That is why in this project we established a new classification related to remediation complexity, considering that an ebook may be very complex but already produced in accordance with accepted accessibility standards, thus resulting in a very low remediation complexity score. To be sure that the scoring was truly reflecting the remediation needs, we referred to our target file known to be fully accessible and with no remediation needs. With some iterations on scoring, we made sure that the target got a score of zero.</p>
 <p>Capturing remediation complexities in relation to different file formats was one of the main challenges of the process. PDFs and Fixed-layout EPUBs are known to be the most complex to remediate as the technologies and languages used to build them imply more complexities and a higher level of programmatic abstraction. That’s why we decided to represent them apart.</p>
@@ -165,7 +173,9 @@ role="doc-pagebreak"
 id="page25"
 aria-label="Page 25"></span>
 </p>
-<h2>Identified limits and bias</h2>
+
+
+## Identified limits and bias
 <p>As previously commented, files in PDF format do not have the same accessibility possibilities as files in the EPUB format. Therefore, the comparison between the two formats must be done very consciously and should not lead to categorical formulas.</p>
 <p>Most of the publishers providing samples are de facto aware of the accessibility subject and therefore the collection we have might be a biased representation of the backlist. A way to verify that would be to do a similar analysis on a large number of files not specifically selected for this type of test. This analysis perspective has been discussed with three members of EDRLab (Beletrina, De Marque and Hachette Livres) and we hope to be able to provide it as a complementary ABE Lab publication in the future.</p>
 <p>At the time of writing this report, some remediation needs can not be spotted automatically, but as technological improvements are occurring very fast, we expect that a better gap analysis could be produced in the coming years. Examples of accessibility problems that cannot be automatically detected are incorrect, non-meaningful or insufficient image descriptions and wrong metadata claims, for which we were not able to establish a valid calculation method during this work.</p>
@@ -179,11 +189,15 @@ role="doc-pagebreak"
 id="page26"
 aria-label="Page 26"></span>
 </p>
-<h2>Results</h2>
+
+
+## Results
 <section
 id="per-format"
 class="level3">
-<h3>Per format</h3>
+
+
+### Per format
 <p>The sample contains 84% (316 files) of reflowable EPUB (RFL); 9% (33 files) of pre-paginated EPUB3 Fixed Layout (FXL) and 7% (26 files) of PDFs. This, actually, does not properly represent any of the market segmentations observed in the backlist data analysis.</p>
 <p>The low number of pre-paginated files in the sample limits the analysis pertinence. It may be interpreted as an interest of the publishers providing samples to have accurate analysis on the remediation needs of reflowable EPUB files rather than PDF and EPUB3 FXL files, as many ebooks coexist in both reflowable and pre-paginated formats.</p>
 <p>The radar diagram and the data table in the next page show the results of the scoring. We resume here the main trendings per format:</p>
@@ -554,7 +568,9 @@ role="doc-pagebreak"
 id="page28"
 aria-label="Page 28"></span>
 </p>
-<h3>Focus on reflowable EPUB3</h3>
+
+
+### Focus on reflowable EPUB3
 <p>As reflowable EPUB3 is the format allowing full compliance to the EAA requirements, we judged it essential to dive deeper in the analysis of the remediation complexity of files in this format. In the collected samples files we found scores from 4 to 73 points. The vast majority have a score between 10 and 30.</p>
 <p>The following charts and tables give a full representation. We will summarise here the key information we found:</p>
 <ul>
@@ -1464,7 +1480,9 @@ role="doc-pagebreak"
 id="page33"
 aria-label="Page 33"></span>
 </p>
-<h3>Recurrent accessibility issues detected</h3>
+
+
+### Recurrent accessibility issues detected
 <p>As a complement to the Thema category level gap analysis, we listed the main known accessibility issues and tried to identify occurrences of these accessibility issues in the collected files. The following table resumes our findings. Results on each accessibility issue are detailed in the following sections.</p>
 <p>
 <span
@@ -1550,7 +1568,9 @@ class="odd">
 <section
 id="missing-accessibility-metadata"
 class="level4">
-<h4>Missing Accessibility Metadata</h4>
+
+
+#### Missing Accessibility Metadata
 <ul>
 <li>
 <p
@@ -1592,7 +1612,9 @@ style="text-align:left;">
 <section
 id="non-reflowable-content"
 class="level4">
-<h4>Non Reflowable content</h4>
+
+
+#### Non Reflowable content
 <ul>
 <li>
 <p
@@ -1636,7 +1658,9 @@ role="doc-pagebreak"
 id="page34"
 aria-label="Page 34"></span>
 </p>
-<h4>Missing or bad textual alternative for non decorative graphical resources</h4>
+
+
+#### Missing or bad textual alternative for non decorative graphical resources
 <ul>
 <li>
 <p
@@ -1673,7 +1697,9 @@ style="text-align:left;">
 <section
 id="missing-or-bad-language-tag"
 class="level4">
-<h4>Missing or bad Language Tag</h4>
+
+
+#### Missing or bad Language Tag
 <ul>
 <li>
 <p
@@ -1710,7 +1736,9 @@ style="text-align:left;">
 <section
 id="ace-issues"
 class="level4">
-<h4>ACE issues</h4>
+
+
+#### ACE issues
 <p>Issues reported by ACE. The following table shows the number of files and the corresponding percentage of the samples containing errors per severity level. We can note that very few (5% only) files have critical issues, but 92% have serious issues which will need to be evaluated for remediation.</p>
 <p>
 <span
@@ -1929,12 +1957,16 @@ class="even">
 <section
 id="potential-accessibility-issues-undetectable-through-automated-analysis"
 class="level3">
-<h3>Potential accessibility issues undetectable through automated analysis</h3>
+
+
+### Potential accessibility issues undetectable through automated analysis
 <p>The following are issues that cannot be detected automatically and will require ad hoc human testing.</p>
 <section
 id="reflowable-restrictions"
 class="level4">
-<h4>Reflowable restrictions</h4>
+
+
+#### Reflowable restrictions
 <ul>
 <li>
 <p
@@ -1968,7 +2000,9 @@ role="doc-pagebreak"
 id="page36"
 aria-label="Page 36"></span>
 </p>
-<h4>Specific contents to be verified manually if found in files </h4>
+
+
+#### Specific contents to be verified manually if found in files 
 <p>Some very specialised contents such as forms, scripts, maths, videos and audios are not usually used in ebooks, but as this may happen, it will be necessary to include them in remediation testing. The following table shows that very few occurrences were found in the sample collection.</p>
 <p>
 <span
@@ -2039,7 +2073,11 @@ class="odd">
 </section>
 <section
 id="classification-for-remediation">
-<h2>Classification for remediation</h2>
+
+
+
+## Classification for remediation
+
 <p>The following classification aims to list the remediation workflows to test. A list of six elements is spread across the different categories, here is a summary of it:</p>
 <ol
 type="1">
@@ -2065,7 +2103,9 @@ type="1">
 <section
 id="pdfs"
 class="level3">
-<h3>PDFs</h3>
+
+
+### PDFs
 <p>As a representation of the printed page, the PDF format accessibility features are limited in term of flexibility and choice in the presentation of the content (For details about the format and it’s known limitations, refer to the Annex <a
 href="#id__heading=h.l9tqzvg5sm75"><u><u>Ebooks files formats</u></u></a>).</p>
 <p>We see two possible remediation options for the PDF files:</p>
@@ -2082,7 +2122,9 @@ type="1">
 <section
 id="fixed-layout-epubs"
 class="level3">
-<h3>Fixed Layout EPUBs</h3>
+
+
+### Fixed Layout EPUBs
 <p>Fixed layout EPUBs are subject to the same visual adjustment limitations as PDF: changing font type and spaces between letters, words, lines, or paragraphs is not possible. The possible remediations are:</p>
 <ol
 start="3"
@@ -2103,7 +2145,9 @@ aria-label="Page 37"></span>improve the file to reach WCAG 2.1 AA and EPUB acces
 <section
 id="reflowable-epubs"
 class="level3">
-<h3>Reflowable EPUBs</h3>
+
+
+### Reflowable EPUBs
 <p>Reflowable EPUBs are known to be fully compliant with EAA requirements<a
 href="#fn9"
 class="footnote-ref"
@@ -2124,7 +2168,9 @@ type="1">
 </section>
 <section
 id="outcomes-1">
-<h2>Outcomes</h2>
+
+
+## Outcomes
 <p>From this gap analysis, we were able to establish a classification of remediation needs and build test files for each of the classifications.</p>
 <p>Direct outcomes of this work are</p>
 <ul>
