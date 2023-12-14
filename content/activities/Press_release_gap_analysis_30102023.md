@@ -20,5 +20,5 @@ The direct outcomes of this work are:
 * a view of the remediation complexity per Thema category;
 * a view of main accessibility issues detected.
 
-We hope the report will provide you with valuable information and we are at your disposal for any questions or comments. Please contact the ABELab Project Core Team using the email contact@abelab.eu.
+We hope the report will provide you with valuable information and we are at your disposal for any questions or comments. Please contact the ABELab Project Core Team using the email contact @ abelab.eu.
 
