@@ -2,7 +2,7 @@
 title: "Remediation tools"
 description: ""
 date: "2024-01-10"
-draft: false 
+draft: true 
 ---
 Workpackage 3 of the ABELab project is dedicated to identify and test remediation tools and platforms that can be used to resolve identified accessibility issues in order to obtain accessible versions and what is the quality of their performance to outline the workflows for making backlist ebooks compliant with EAA requirements.
 
