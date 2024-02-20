@@ -18,7 +18,7 @@ If you want to contact the team, please drop an email to contact @ abelab.eu.
 
 
 
-The European Digital Reading Lab ([edrlab.org](https://edrlab.org)) is both a development laboratory and an association of 65 members from the publishing industry, with lots of publishers or providers of publishing services, some huge, some small.
+The European Digital Reading Lab ([edrlab.org](https://edrlab.org)) is both a development laboratory and an association of more than 70 members from the publishing industry, with lots of publishers or providers of publishing services, some huge, some small.
 
 EDRLab has been built on four pillars, all related to digital book publishing: open standards, open-
 source software, digital rights management and accessibility. 
