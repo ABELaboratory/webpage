@@ -1,9 +1,18 @@
 ---
 title: "Deliverables"
 description: ""
-date: "2023-10-31"
+date: "2024-05-07"
 draft: false
 ---
+
+## Guidelines for remediation tools producers
+
+Released 2024, may the 7th. Diffusion: Public.
+
+<blockquote>This document aims to provide high-level guidelines that can be used by producers and developers of remediation tools to design, develop or improve their own tools, highlighting the requirements these tools should include to be effective and to support the human operators by making the process as simple, intuitive and fluid as possible - depending also on the competence of the target users.</blockquote>
+
+* <a href="/outcomes/guidelines_tools/">Read online Guidelines for remediation tools producers</a>
+* <a href="https://github.com/ABELaboratory/publications/raw/main/public-deliverables/Guidelines-remediation-tools-producers/Guidelines-for-remediation-tools-producers.pdf" aria-label="Download PDF Whitepaper Guidelines for remediation tools producers">Download as PDF (1.9 mo)</a> or <a href="https://github.com/ABELaboratory/publications/raw/main/public-deliverables/Guidelines-remediation-tools-producers/Guidelines-for-remediation-tools-producers.epub" aria-label="Download EPUB  Whitepaper Guidelines for remediation tools producers">Download as EPUB (320 ko)</a>.*
 
 ## Report on Backlist Data and gap analysis
 
