@@ -1,11 +1,11 @@
 ---
 title: "Deliverables"
 description: ""
-date: "2024-05-07"
+date: "2024-05-20"
 draft: false
 ---
 
-It is possible to <a href="opds://rawcdn.githack.com/ABELaboratory/publications/5bb58ce9826a9bdce35405e86bf3b243c11b75e3/public-deliverables/feeds/ABELab_deliverables.json">load deliverable catalog into reading application (OPDS)</a> into any good reading application (Catalogue OPDS containing EPUB versions of the deliverables). 
+> Read online, download or <a href="opds://rawcdn.githack.com/ABELaboratory/publications/5bb58ce9826a9bdce35405e86bf3b243c11b75e3/public-deliverables/feeds/ABELab_deliverables.json">load deliverable catalog into reading application (OPDS)</a> into any good reading application (Catalogue OPDS containing EPUB versions of the deliverables)! 
 
 ## Feedback request on relevance and expectations for the future
 
@@ -13,7 +13,7 @@ This survey aims to gather feedback on the ABE Lab project, its relevance and it
 
 For the project partners, it is also a useful opportunity to ascertain the needs and expectations of publishers for possible future projects.
 
-[Fill the survey! (4 minutes)](https://ec.europa.eu/eusurvey/runner/3941c557-cc58-50bf-cf8b-056c33546d8c)
+[Fill the survey! (4 minutes)](https://ec.europa.eu/eusurvey/runner/1dd0d856-be57-7129-4f09-1f2fd0a6af4f)
 
 ## Final Public Report
 Released 2024, may the 17th. Diffusion: Public.

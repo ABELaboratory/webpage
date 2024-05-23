@@ -4,7 +4,7 @@ description: ""
 date: "2024-04-23"
 draft: false 
 ---
-<!-- *This page will not change as the related ABELab project activity is done. We'll maintain a different list of tools claiming to provide accessibility remediation features by responding to our [Remediation tools survey](https://www.abelab.eu/activities/Toolssurvey)* -->
+> *This page will not change as the related ABELab project activity is done. We'll maintain a different list of tools claiming to provide accessibility remediation features by responding to our [Remediation tools survey](https://www.abelab.eu/activities/toolssurvey/)* 
 
 Workpackage 3 of the ABELab project was dedicated to identify and test remediation tools and platforms that can be used to resolve identified accessibility issues in order to obtain accessible versions and what is the quality of their performance to outline the workflows for making backlist ebooks compliant with EAA requirements.
 
