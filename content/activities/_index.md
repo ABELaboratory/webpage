@@ -10,6 +10,6 @@ The main objective of the project will be achieved by analyzing and testing the 
 
 In the context of the project, the partners will test several workflows using existing open-source and commercial tools to perform remediation tests of inaccessible ebooks. The study will consider different levels of complexity of source ebooks and will evaluate the associated costs of remediation.
 
-Reports on progress will be posted here.
+Reports on progress ARE posted here.
 
 <hr/>

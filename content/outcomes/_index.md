@@ -5,14 +5,9 @@ description: This is the place to find usable resources produced by ABE Lab proj
 draft: false
 ---
 
-ABELab has two main objectives : 
 
-* Collect and analyze the detailed composition of ebook backlists in Europe
-* Provide guidelines to European publishers for boosting the remediation of ebooks from their backlist.
+All the documents and publications related to the ABELab projects are shared here in an accessible format.
 
-ABELab is a 18 month project starting January 2023 and ending June 2024. 
-5 workshops and 3 events will take place to involve and give feedback to publishers.
-
-All the documents and publications related to the ABELab projects will be shared here in an accessible format.
+> It is possible to <a href="opds://rawcdn.githack.com/ABELaboratory/publications/5bb58ce9826a9bdce35405e86bf3b243c11b75e3/public-deliverables/feeds/ABELab_deliverables.json">load deliverable catalog into reading application (OPDS)</a> into any good reading application (Catalogue OPDS containing EPUB versions of the deliverables). 
 
 <hr/>
