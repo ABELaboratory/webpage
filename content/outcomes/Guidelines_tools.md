@@ -785,7 +785,7 @@ detect incorrect heading nesting. It is not required to use all the levels, but 
 <p>InclusiveDocs, <a href="https://inclusivedocs.com/">https://inclusivedocs.com/</a></p>
   </li>
   <li>
-<p>Moovleen ISICrunch, <a href="https://www.isicrunch.com/studio/">https://www.isicrunch.com/studio/</a></p>
+<p>Moovleen ISICrunch, <a href="https://www.moovleen.com">https://www.moovleen.com</a></p>
   </li>
   <li>
 <p>Nightingale epub-converter. The tool is still under development and no official resources exist. The official website of the Nightingale platform, dedicated to data management for book publishers, can be found at <a href="https://www.nightingale.io/">https://www.nightingale.io/</a></p>
