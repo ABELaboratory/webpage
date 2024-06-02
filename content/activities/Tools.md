@@ -16,7 +16,7 @@ The list follows the alphabetical order of the names of remediation solutions:
 * [Access Aide plugin for Sigil](https://github.com/kevinhendricks/Access-Aide)
 * [Bookalope](https://bookalope.net/)
 * [InclusiveDocs](https://inclusivedocs.com/)
-* [Moovleen ISICrunch](https://www.isicrunch.com/studio/)
+* [Moovleen ISICrunch](https://www.moovleen.com)
 * [Nightingale epub-converter]. The tool is still under development and no official resources exist. The official website of the Nightingale platform, dedicated to data management for book publishers, can be found at [nightingale.io](https://www.nightingale.io/)
 * [PDFix Desktop](https://pdfix.net/products/pdfix-desktop-lite/)
 * [StreetLib Write](https://writeapp.io/home)
