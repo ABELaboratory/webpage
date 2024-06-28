@@ -27,6 +27,9 @@ languages:
           series: series
         menu:
             main:
+                - name: After
+                  url: after
+                  weight: 2
                 - name: Partners
                   url: partners
                   weight: 5
