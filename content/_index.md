@@ -26,8 +26,7 @@ At the same time, we see companies offering remediation tools for converting exi
 To get insight into the possibilities and costs of remediation, the partners of the ABE Lab project **European Digital Reading Lab (EDRLab)**, **Fondazione LIA** and **KB – National Library of the Netherlands**, are now starting their research activities to provide insight on:
 * which elements in backlist ebooks hinder accessibility
 * how to categorize clusters of ebooks that need the same treatment
-* tools on the market that help with remediation of different ebook categories (fiction, non-fiction, 
-* complex layout books)
+* tools on the market that help with remediation of different ebook categories (fiction, non-fiction, complex layout books)
 * complete costs per title
 
 <hr/>
