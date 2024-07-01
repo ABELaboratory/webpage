@@ -10,7 +10,7 @@ draft: false
 * [2023/10: ABE Lab official website - EU ebooks titles analysis and accessibility gaps: ABELab report released](https://www.abelab.eu/activities/press_release_gap_analysis_30102023/)
 * [2024/05/07: ABE Lab official website - How to improve tools for accessible ebooks remediation? ABELab guidelines released!](https://www.abelab.eu/activities/press_release_guidelines_tools_07052024/)
 * [2024/05/20: ABE Lab official website - Remediation of backlist ebooks: ABE Lab releases its final public report and launches an online survey](https://www.abelab.eu/activities/press_release_final_report_20052024/)
-* 
+
 ## Media posts and articles
 * [2024/02/01: LIA dedicated page - 2023-24. ABE Lab - Accessible Backlist Ebooks Laboratory](https://www.fondazionelia.org/en/project/2023-abe-lab-accessible-backlist-ebooks-laboratory/)
 * [2024/02/01: LIA dedicated page (IT) - 2023-24. ABE Lab – Accessible Backlist Ebooks Laboratory](https://www.fondazionelia.org/progetto/2023-24-abe-lab-accessible-backlist-ebooks-laboratory/)
