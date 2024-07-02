@@ -3,13 +3,20 @@ title: "Home page"
 layout: home
 ---
 
+
+> <i class="fa-solid fa-circle-info"></i> <b>The ABELab project closed on June 30th, 2024. <br/>This website will remain available until we estimate the content usefull.</b>
+>
+> <i>The [After section](https://www.abelab.eu/after/) will remain active, and EDRLab will be responsible for providing updated watch content. The rest of the content will not be updated except for typographic corrections.</i>
+<hr/>
+
 <img src="images/logoABEblue1.png" alt="" />
+
 
 <hr/>
 
-> A **collaborative project** aiming to **provide publisher with correct information about options and costs for remediation to make backlist ebooks accessible**. 
-> 
-> European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> the National Library of the Netherlands are partners of this Creative Europe funded project.
+ A **collaborative project** aiming to **provide publisher with correct information about options and costs for remediation to make backlist ebooks accessible**. 
+
+ European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> the National Library of the Netherlands are partners of this Creative Europe funded project.
 <div class="center">
 <img class="footer-img" src="images/logo-eu--en.svg" alt="" width="200px"/>
 </div>
