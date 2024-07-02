@@ -18,7 +18,7 @@ layout: home
 
  European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> the National Library of the Netherlands are partners of this Creative Europe funded project.
 <div class="center">
-<img class="footer-img" src="images/800px-Creative_Europe_logo.png" alt="" width="200px"/>
+<img class="footer-img" src="images/logo-eu--en.svg" alt="" width="200px"/>
 </div>
 <hr/>
 
