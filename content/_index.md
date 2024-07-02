@@ -4,9 +4,9 @@ layout: home
 ---
 
 
-> <i class="fa-solid fa-circle-info"></i> <b>The ABELab project closed on June 30th, 2024. <br/>This website will remain available until we estimate the content usefull.</b>
+> <i class="fa-solid fa-circle-info"></i> <b>The ABELab project concluded on June 30th, 2024. This website will remain available until we consider the content out of date.</b>
 >
-> <i>The [After section](https://www.abelab.eu/after/) will remain active, and EDRLab will be responsible for providing updated watch content. The rest of the content will not be updated except for typographic corrections.</i>
+> <i>The [After section](https://www.abelab.eu/after/) will continue to be maintained, with EDRLab responsible for providing updated watch content. The remainder of the content will not be updated, except for typographical corrections.</i>
 <hr/>
 
 <img src="images/logoABEblue1.png" alt="" />
