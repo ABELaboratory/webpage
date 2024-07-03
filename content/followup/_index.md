@@ -1,5 +1,5 @@
 ---
-title: "After project"
+title: "Follow Up after project"
 date: 2024-06-01
 descripyion: This is the place to follow up after ABE Lab project
 ---

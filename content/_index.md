@@ -6,7 +6,7 @@ layout: home
 
 > <i class="fa-solid fa-circle-info"></i> <b>The ABELab project concluded on June 30th, 2024. This website will remain available until we consider the content out of date.</b>
 >
-> <i>The [After section](https://www.abelab.eu/after/) will continue to be maintained, with EDRLab responsible for providing updated watch content. The remainder of the content will not be updated, except for typographical corrections.</i>
+> <i>The [Follow Up section](https://www.abelab.eu/followup/) will continue to be maintained, with EDRLab responsible for providing updated watch content. The remainder of the content will not be updated, except for typographical corrections.</i>
 <hr/>
 
 <img src="images/logoABEblue1.png" alt="" />
@@ -18,7 +18,7 @@ layout: home
 
  European Digital Reading Lab (EDRLab), Fondazione LIA and <span lang="nl">Koninklijke Bibliotheek</span> the National Library of the Netherlands are partners of this Creative Europe funded project.
 <div class="center">
-<img class="footer-img" src="images/logo-eu--en.svg" alt="" width="200px"/>
+<img class="footer-img" src="images/EN_FundedbytheEU_RGB_POS.png" alt="" width="200px"/>
 </div>
 <hr/>
 
