@@ -27,8 +27,8 @@ languages:
           series: series
         menu:
             main:
-                - name: After
-                  url: after
+                - name: Follow up
+                  url: followup
                   weight: 2
                 - name: Partners
                   url: partners
